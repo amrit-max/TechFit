@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Amrit_m01 &#8211; TechFit</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Don&#039;t just pray for it, work for it.</description>
+	<lastBuildDate>Sat, 22 May 2021 07:03:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>1</title>
+		<link>./../../../363-2/index.html</link>
+					<comments>./../../../363-2/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Amrit_m01]]></dc:creator>
+		<pubDate>Sun, 16 May 2021 13:53:58 +0000</pubDate>
+				<category><![CDATA[Exercise]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=363</guid>
+
+					<description><![CDATA[how much hours to excericise daily? experts recommend that an average person stick to existing public health guidelines, which recommend that children and teenagers exercise one hour every day and adults get a weekly minimum of two hours and 30 minutes of moderate intensity physical activity]]></description>
+										<content:encoded><![CDATA[
+<h1>how much hours to excericise daily?</h1>
+
+
+
+<p>experts recommend that an average person stick to existing public health guidelines, which recommend that children and teenagers <strong>exercise</strong> one <strong>hour every day</strong> and adults get a weekly minimum of two <strong>hours</strong> and 30 minutes of moderate intensity physical activity</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../363-2/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
